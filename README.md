@@ -120,4 +120,3 @@ This project is released under the **MIT License**.
 *Note: Mochi-1-preview model weights are governed by the respective Genmo Hugging Face licenses.*
 
 ---
-*Created by [Ramez Asaad](https://github.com/Ramez-Asaad) as part of the AIE418 Selected Topics in AI course.*
